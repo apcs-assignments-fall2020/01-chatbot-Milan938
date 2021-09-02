@@ -4,7 +4,7 @@ public class MyMain {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         // Add some code here!
-        System.out.println("What's your name friend??????");
+        System.out.println("What's your name friend?????");
         String name = scan.next();
         System.out.println("Hello there " + name);
         System.out.println("What is you favorite color, " + name + "?");
